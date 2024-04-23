@@ -1,0 +1,7 @@
+numpy
+pandas
+pickle
+joblib
+streamlit
+matplotlib
+scikit-learn==1.2.2
